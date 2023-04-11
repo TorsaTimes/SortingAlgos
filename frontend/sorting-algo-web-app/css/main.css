@@ -1,0 +1,54 @@
+/* .page-main {
+    flex-grow: 1;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.wrapper>* {
+    padding: 20px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+:root {
+    --main-white-color: white;
+    --main-purple-color: #9e89b8;
+}
+
+.page-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 350px;
+    background: var(--main-purple-color) url(IMG_SRC) no-repeat center / cover;
+    background-blend-mode: luminosity;
+    color: var(--main-white-color);
+}
+
+.page-main div {
+    max-width: 500px;
+}
+
+@media screen and (min-width: 768px) {
+    .page-main {
+        padding-left: 90px;
+    }
+} */
+
+.site-section {
+    background-color: lightblue;
+    /* I added this so you can see the new extents of the .site-section */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: calc(100vw - 16px);
+    height: calc(100vh - 16px);
+    overflow: hidden;
+}
