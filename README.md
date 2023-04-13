@@ -28,6 +28,8 @@ npm run serve
 
 5. Open your web browser and go to http://localhost:8080 to see the SortAlgoVi application running.
 
+![Alt-Text](pictures/app-noncollapse.jpg)
+
 ![Alt-Text](pictures/app-collapse.jpg)
 
 ##Usage
