@@ -28,8 +28,13 @@ npm run serve
 
 5. Open your web browser and go to http://localhost:8080 to see the SortAlgoVi application running.
 
+## UI Appearance
 
-##Usage
+![Alt-Text](pictures/app-noncollapse.jpg)
+
+![Alt-Text](pictures/app-collapse.jpg)
+
+## Usage
 
 Choose the length of the array by dragging the "Choose length" range slider.
 Choose the sorting speed by dragging the "Choose speed" range slider.
@@ -40,11 +45,11 @@ Click the "Reset" button to stop the sorting process and reset the array.
 Contributing
 If you want to contribute to SortAlgoVi, feel free to submit pull requests or open issues on the GitHub repository. Any contributions, feedback, or suggestions are welcome!
 
-##License
+## License
 
 SortAlgoVi is open source and available under the MIT License.
 
-##Credits
+## Credits
 
 Vue.js - JavaScript framework for building user interfaces
 Bootstrap - Front-end framework for developing responsive web pages
@@ -53,9 +58,3 @@ Vue-Bootstrap - Vue.js implementation of Bootstrap components
 Vue-Select - Customizable select box component for Vue.js
 Vue-Range-Slider - Range slider component for Vue.js
 Vue-Transition-Expand - Vue.js transition component for expanding and collapsing elements
-
-## UI Appearance
-
-![Alt-Text](pictures/app-noncollapse.jpg)
-
-![Alt-Text](pictures/app-collapse.jpg)
