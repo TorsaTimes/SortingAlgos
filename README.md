@@ -19,12 +19,12 @@ SortAlgoVi is a web-based sorting algorithm visualizer that allows users to visu
 
 ```sh
 npm install
-```sh
-
+```
 4. Run the application locally with hot-reloading using the following command:
 
 ```sh
 npm run serve
+```
 
 5. Open your web browser and go to http://localhost:8080 to see the SortAlgoVi application running.
 
