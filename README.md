@@ -28,9 +28,6 @@ npm run serve
 
 5. Open your web browser and go to http://localhost:8080 to see the SortAlgoVi application running.
 
-![Alt-Text](pictures/app-noncollapse.jpg)
-
-![Alt-Text](pictures/app-collapse.jpg)
 
 ##Usage
 
@@ -56,3 +53,9 @@ Vue-Bootstrap - Vue.js implementation of Bootstrap components
 Vue-Select - Customizable select box component for Vue.js
 Vue-Range-Slider - Range slider component for Vue.js
 Vue-Transition-Expand - Vue.js transition component for expanding and collapsing elements
+
+## UI Appearance
+
+![Alt-Text](pictures/app-noncollapse.jpg)
+
+![Alt-Text](pictures/app-collapse.jpg)
