@@ -1,6 +1,6 @@
 <template>
   <div class="flex" style="overflow: hidden">
-    <nav
+    <!-- <nav
       class="navbar bg-dark navbar-expand-lg bg-body-tertiary navbar-dark"
       data-bs-theme="dark"
     >
@@ -21,8 +21,8 @@
           <ul class="navbar-nav"></ul>
         </div>
       </div>
-    </nav>
-    <div style="overflow: hidden">
+    </nav> -->
+    <div class="bg-secondary" style="overflow: hidden">
       <SortingAlgo />
     </div>
   </div>
