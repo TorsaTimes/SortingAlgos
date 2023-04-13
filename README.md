@@ -28,6 +28,8 @@ npm run serve
 
 5. Open your web browser and go to http://localhost:8080 to see the SortAlgoVi application running.
 
+![Alt-Text](pictures/app-collapse.jpg)
+
 ##Usage
 
 Choose the length of the array by dragging the "Choose length" range slider.
